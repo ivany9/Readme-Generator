@@ -4,6 +4,7 @@ const generateMarkdown =require('./utils/generateMarkdown');
 
 
 
+
 // // TODO: Include packages needed for this application
 
 // // TODO: Create an array of questions for user input
@@ -29,6 +30,14 @@ const questions = [
     message: "Provide instructions and examples for use? ",
       
 },
+
+{
+    type: "input",
+    name: "license",
+    message: "Type of License ",
+      
+},
+
 
 {
     type: "input",
@@ -75,7 +84,7 @@ const questions = [
    inquirer.prompt(questions)
    .then((answers)=>{
        const render=generateMarkdown(answers);
-        writeToFile('README.md',render)
+        writeToFile('README.md',render);
 
    });
       
