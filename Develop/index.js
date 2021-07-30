@@ -1,6 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown =require('./utils/generateMarkdown');
+const renderLicenseBadge =require('./utils/generateMarkdown');
 
 
 
@@ -11,7 +12,7 @@ const generateMarkdown =require('./utils/generateMarkdown');
 const questions = [
 {
     type: "input",
-    name: "projectTitule",
+    name: "projectTitle",
     message: "Project-Title",
 },
 {
@@ -32,24 +33,27 @@ const questions = [
 },
 
 {
-    type: "input",
-    name: "license",
-    message: "Type of License ",
+            type: "list",
+            name: "license",
+            message: "Chose the appropriate license for this project: ",
+            choices: [
+                "Apache",
+                "Academic",
+                "GNU",
+                "ISC",
+                "MIT",
+                "Mozilla",
+                "Open"
+            ]
+            
       
 },
 
 
 {
     type: "input",
-    name: "Credits",
-    message: "List your collaborators ",
-      
-},
-
-{
-    type: "input",
-    name: "Features",
-    message: "list them here ",
+    name: "questions",
+    message: "Questions ",
       
 },
 {
@@ -61,9 +65,16 @@ const questions = [
 
 {
     type: "input",
-    name: "info",
-    message: "email: "
+    name: "email",
+    message: "email:",
+},
+
+{
+    type: "input",
+    name: "github",
+    message:"Github" 
 }
+
 
 
  ]
@@ -83,8 +94,11 @@ const questions = [
 
    inquirer.prompt(questions)
    .then((answers)=>{
-       const render=generateMarkdown(answers);
-        writeToFile('README.md',render);
+
+         
+         const license=renderLicenseBadge(answers.license.toString());
+         const render=generateMarkdown(answers);        
+         writeToFile('README.md',render);
 
    });
       
@@ -94,7 +108,7 @@ const questions = [
 
 }
 
+
+
 // // Function call to initialize app
  init();
-
-
