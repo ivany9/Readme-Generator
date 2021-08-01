@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateMarkdown =require('./utils/generateMarkdown');
-const renderLicenseBadge =require('./utils/generateMarkdown');
+const generateMarkdown =require('./utils/generateMarkdown')
 
 
 
@@ -43,7 +42,8 @@ const questions = [
                 "ISC",
                 "MIT",
                 "Mozilla",
-                "Open"
+                "Open",
+                 "NA"
             ]
             
       
@@ -90,18 +90,22 @@ const questions = [
  }
 
 // // TODO: Create a function to initialize app
-  function init(){ 
+ function init(){ 
 
    inquirer.prompt(questions)
    .then((answers)=>{
 
-         
-         const license=renderLicenseBadge(answers.license.toString());
-         const render=generateMarkdown(answers);        
+        // const license=renderLicenseBadge(answers.license);
+         const render=generateMarkdown(answers);      
+         //const Lice=renderLicenseBadge(render);
          writeToFile('README.md',render);
+          
 
-   });
-      
+   }).catch((error) => {
+    if (error.isTtyError) {
+      console.log("error");
+    } 
+}); 
        
 
 
