@@ -1,16 +1,16 @@
 
   
   # 🥇 README FILE GENERATOR  🥇
-  ivan       
+  gfdg       
         
   
        
   
-  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   
   
   #  🕹️ Description
-  *fwfwe
+  *dfgfd
 
   #   🎫  Table of Contents
 
@@ -25,25 +25,25 @@
   
       
   # 🔌 Installation
-   wefewf
+   dfgdfg
 
   # 🌂 Usage
    undefined
   # 🎎 License
-  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 
   
-  https://opensource.org/licenses/isc
+  https://opensource.org/licenses/mit
 
-  This application works whit  ISC license. 
+  This application works whit  MIT license. 
   #  🎎  Contributing
-   fewewfew
+   rgergr
   # 🔍 Questions
-   feewfew
+   gfreg
   # GitHub  
-   GitHub: (https://github.com/ef)
+   GitHub: (https://github.com/rgre)
   # email
-   Email few
+   Email rgrreg
   
       
