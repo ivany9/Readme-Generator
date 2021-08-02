@@ -12,9 +12,12 @@
          that the user have.
   # Actual Behaviour
   
-  ** 
+  ** The Readme File Generator is one of the nice projects for my assignment at the university of Sydney,
+     this is a tool, just answering  the main questions, the user can get a fancy readme follow the markdown structure.
+     The Main Questions are same likes the Table of Contents.
+     
+   ** The Application allow the user to pick a licence     
    
- 
 
 
    #  🎫  Table of Contents
@@ -59,7 +62,9 @@
   #  🎎  Contributing
   
   -https://www.npmjs.com/
- -https://www.npmjs.com/package/inquirer
+  
+  -https://www.npmjs.com/package/inquirer
+ 
   -https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
   
   
