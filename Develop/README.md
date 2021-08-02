@@ -1,24 +1,12 @@
 
   
   # 🥇 README FILE GENERATOR  🥇
-<<<<<<< HEAD
-  gfdg       
-        
-  
-       
-  
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-=======
    
          
   ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
->>>>>>> 91bab931c8ce16fec2accfff3b67de19b9c6ff30
   
      
   #  🕹️ Description
-<<<<<<< HEAD
-  *dfgfd
-=======
         Sometimes we need to create a good Readme File, but sometimes  is the last part of our job, and is takes times.
          So this application allows the user generate a nice and fast Readme File, and you can use anytime, and for every single            develop
          that the user have.
@@ -41,7 +29,6 @@
    
    
    
->>>>>>> 91bab931c8ce16fec2accfff3b67de19b9c6ff30
 
 
    #  🎫  Table of Contents
@@ -57,9 +44,6 @@
   
       
   # 🔌 Installation
-<<<<<<< HEAD
-   dfgdfg
-=======
    
    1. Open the terminal and go to the path of the file.
    2.Install npm Packages.
@@ -67,7 +51,6 @@
    4. write this command "node index"
    5. Now is going to appear multiples questions and the questions are the same likes [Table of Contents](#t)
   
->>>>>>> 91bab931c8ce16fec2accfff3b67de19b9c6ff30
 
   # 🌂 Usage
    
@@ -80,27 +63,14 @@
    
    
   # 🎎 License
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
 
   
-<<<<<<< HEAD
-  https://opensource.org/licenses/mit
-=======
      https://opensource.org/licenses/isc
->>>>>>> 91bab931c8ce16fec2accfff3b67de19b9c6ff30
 
-  This application works whit  MIT license. 
+  This application works whit  ISC license. 
   #  🎎  Contributing
-<<<<<<< HEAD
-   rgergr
-  # 🔍 Questions
-   gfreg
-  # GitHub  
-   GitHub: (https://github.com/rgre)
-  # email
-   Email rgrreg
-=======
   
   -https://www.npmjs.com/
   
@@ -118,7 +88,6 @@
    GitHub: (https://github.com/ivany9)
    
   # email
->>>>>>> 91bab931c8ce16fec2accfff3b67de19b9c6ff30
   
      ivany9@hotmail.com
      
@@ -130,9 +99,3 @@
      
      
      
-     
-     
-     
-     
-  
-      
