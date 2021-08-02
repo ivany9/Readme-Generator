@@ -1,16 +1,18 @@
 
   
   # 🥇 README FILE GENERATOR  🥇
-  ivan       
-        
-  
-       
-  
+   
+         
   ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
   
-  
+     
   #  🕹️ Description
-  *fwfwe
+        Sometimes we need to create a good Readme File, but sometimes  is the last part of our job, and is takes times.
+   So this application allows the user generate a nice and fast Readme File, and you can use anytime, and for every single develop
+   that the user have.
+  
+ 
+
 
   #   🎫  Table of Contents
 
@@ -25,7 +27,13 @@
   
       
   # 🔌 Installation
-   wefewf
+   
+   1. Open the terminal and go to the path of the file.
+   2.Install npm Packages.
+   3.go to the index file.
+   4. write this command "node index"
+   5. Now is going to appear multiples questions and the questions are the same likes [Table of Contents](#Table of Contenst)
+  
 
   # 🌂 Usage
    undefined
