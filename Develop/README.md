@@ -1,16 +1,16 @@
 
   
   # 🥇 README FILE GENERATOR  🥇
-  WFW       
+  ivan       
         
   
        
   
-  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
   
   
   #  🕹️ Description
-  *FEW
+  *fwfwe
 
   #   🎫  Table of Contents
 
@@ -25,22 +25,25 @@
   
       
   # 🔌 Installation
-   FEW
+   wefewf
 
   # 🌂 Usage
    undefined
   # 🎎 License
-  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
-  https://opensource.org/licenses/Apache-2.0
+  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
-  This application works whit  Apache license. 
+
+  
+  https://opensource.org/licenses/isc
+
+  This application works whit  ISC license. 
   #  🎎  Contributing
-   VF
+   fewewfew
   # 🔍 Questions
-   FRV
+   feewfew
   # GitHub  
-   GitHub: (https://github.com/ERF)
+   GitHub: (https://github.com/ef)
   # email
-   Email FRF
+   Email few
   
       
