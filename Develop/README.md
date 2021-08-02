@@ -10,7 +10,10 @@
         Sometimes we need to create a good Readme File, but sometimes  is the last part of our job, and is takes times.
          So this application allows the user generate a nice and fast Readme File, and you can use anytime, and for every single            develop
          that the user have.
+  # Actual Behaviour
   
+  ** 
+   
  
 
 
@@ -36,22 +39,40 @@
   
 
   # 🌂 Usage
-   undefined
+   
+   -_Node Js
+   
+   -_JavaScript
+   
+   -_npm
+   
+   
+   
   # 🎎 License
   ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
 
   
-  https://opensource.org/licenses/isc
+     https://opensource.org/licenses/isc
 
   This application works whit  ISC license. 
   #  🎎  Contributing
-   fewewfew
+  
+  https://www.npmjs.com/
+  https://www.npmjs.com/package/inquirer
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+  
+  
   # 🔍 Questions
-   feewfew
+   
+   
+   
   # GitHub  
-   GitHub: (https://github.com/ef)
+  
+   GitHub: (https://github.com/ivany9)
+   
   # email
-   Email few
+  
+     ivany9@hotmail.com
   
       
