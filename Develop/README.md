@@ -91,10 +91,10 @@
   
      ivany9@hotmail.com
      
-     **MOCK-UP
+   **MOCK-UP
      
      
-     ![video](https://user-images.githubusercontent.com/83906297/127857269-1f8ed624-a903-43ff-98ad-dee1f6c18f47.gif)
+   ![video](https://user-images.githubusercontent.com/83906297/127857269-1f8ed624-a903-43ff-98ad-dee1f6c18f47.gif)
 
      
      
