@@ -14,7 +14,7 @@
  
 
 
-  #   🎫  Table of Contents
+  #  🎫  Table of Contents
 
   - [Description](#description)
   - [Installation](#installation)
@@ -32,7 +32,7 @@
    2.Install npm Packages.
    3.go to the index file.
    4. write this command "node index"
-   5. Now is going to appear multiples questions and the questions are the same likes [Table of Contents](#Table of Contenst)
+   5. Now is going to appear multiples questions and the questions are the same likes [Table of Contents](#Table of Contents)
   
 
   # 🌂 Usage
