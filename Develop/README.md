@@ -16,7 +16,18 @@
      this is a tool, just answering  the main questions, the user can get a fancy readme follow the markdown structure.
      The Main Questions are same likes the Table of Contents.
      
-   ** The Application allow the user to pick a licence     
+   ** The Application allow the user to pick a licence for default, and fill the question with a short explanation.
+   
+   ** The licese Bring the Icon of the type of license, and the link of it, so the user can check the rules of the license.
+  
+   *GitHub and email can be add in the questions.
+   
+   *table of contents is generade automatly.
+   
+   
+   
+   
+   
    
 
 
@@ -70,7 +81,7 @@
   
   # 🔍 Questions
    
-   
+   _user Questions
    
   # GitHub  
   
